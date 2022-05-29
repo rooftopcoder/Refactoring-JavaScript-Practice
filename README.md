@@ -1,4 +1,4 @@
-# JavaScript Refactor Project
+# JavaScript Refactor Project - Answers
 
 In this project, you will reexamine some problems you've tackled before but
 with small tweaks. For the most part, the problems will be similar but with
